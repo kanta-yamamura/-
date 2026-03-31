@@ -1,5 +1,5 @@
 pandas
-streamlit
+streamlit # バージョン指定を外す
 openpyxl
 altair==4.2.2
 Pillow
